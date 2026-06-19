@@ -26,7 +26,7 @@
 [info] Deduplication removed 0 rules
 [info] Final newline inserted
 [info] Final length of the list is 31
-[info] Writing output to /tmp/tmp.j6zMkHSfbE/BLOCK/bestpika_yui
+[info] Writing output to /tmp/tmp.QXmR5WY2JV/BLOCK/bestpika_yui
 [info] Finished compiling
 [info] Starting @adguard/hostlist-compiler v1.0.39
 [info] Starting the compiler
@@ -56,7 +56,7 @@
 [info] Deduplication removed 0 rules
 [info] Final newline inserted
 [info] Final length of the list is 121
-[info] Writing output to /tmp/tmp.j6zMkHSfbE/BLOCK/cjxlist
+[info] Writing output to /tmp/tmp.QXmR5WY2JV/BLOCK/cjxlist
 [info] Finished compiling
 [info] Starting @adguard/hostlist-compiler v1.0.39
 [info] Starting the compiler
@@ -86,7 +86,7 @@
 [info] Deduplication removed 0 rules
 [info] Final newline inserted
 [info] Final length of the list is 57
-[info] Writing output to /tmp/tmp.j6zMkHSfbE/BLOCK/uassets_badware
+[info] Writing output to /tmp/tmp.QXmR5WY2JV/BLOCK/uassets_badware
 [info] Finished compiling
 [info] Starting @adguard/hostlist-compiler v1.0.39
 [info] Starting the compiler
@@ -116,7 +116,7 @@
 [info] Deduplication removed 0 rules
 [info] Final newline inserted
 [info] Final length of the list is 15
-[info] Writing output to /tmp/tmp.j6zMkHSfbE/BLOCK/uassets_filters_2020
+[info] Writing output to /tmp/tmp.QXmR5WY2JV/BLOCK/uassets_filters_2020
 [info] Finished compiling
 [info] Starting @adguard/hostlist-compiler v1.0.39
 [info] Starting the compiler
@@ -146,7 +146,7 @@
 [info] Deduplication removed 0 rules
 [info] Final newline inserted
 [info] Final length of the list is 17
-[info] Writing output to /tmp/tmp.j6zMkHSfbE/BLOCK/uassets_filters_2021
+[info] Writing output to /tmp/tmp.QXmR5WY2JV/BLOCK/uassets_filters_2021
 [info] Finished compiling
 [info] Starting @adguard/hostlist-compiler v1.0.39
 [info] Starting the compiler
@@ -176,7 +176,7 @@
 [info] Deduplication removed 0 rules
 [info] Final newline inserted
 [info] Final length of the list is 21
-[info] Writing output to /tmp/tmp.j6zMkHSfbE/BLOCK/uassets_filters_2022
+[info] Writing output to /tmp/tmp.QXmR5WY2JV/BLOCK/uassets_filters_2022
 [info] Finished compiling
 [info] Starting @adguard/hostlist-compiler v1.0.39
 [info] Starting the compiler
@@ -206,7 +206,7 @@
 [info] Deduplication removed 0 rules
 [info] Final newline inserted
 [info] Final length of the list is 21
-[info] Writing output to /tmp/tmp.j6zMkHSfbE/BLOCK/uassets_filters_2023
+[info] Writing output to /tmp/tmp.QXmR5WY2JV/BLOCK/uassets_filters_2023
 [info] Finished compiling
 [info] Starting @adguard/hostlist-compiler v1.0.39
 [info] Starting the compiler
@@ -228,15 +228,15 @@
     ]
 }
 [info] Start compiling https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2024.txt
-[info] Original length is 3252
-[info] Length after applying transformations is 3252
+[info] Original length is 3255
+[info] Length after applying transformations is 3255
 [info] Lines trimmed.
 [info] Removed 1157 comments
-[info] The list was compressed from 2098 to 2098
+[info] The list was compressed from 2101 to 2101
 [info] Deduplication removed 0 rules
 [info] Final newline inserted
 [info] Final length of the list is 19
-[info] Writing output to /tmp/tmp.j6zMkHSfbE/BLOCK/uassets_filters_2024
+[info] Writing output to /tmp/tmp.QXmR5WY2JV/BLOCK/uassets_filters_2024
 [info] Finished compiling
 [info] Starting @adguard/hostlist-compiler v1.0.39
 [info] Starting the compiler
@@ -258,15 +258,15 @@
     ]
 }
 [info] Start compiling https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
-[info] Original length is 32582
-[info] Length after applying transformations is 32582
+[info] Original length is 32621
+[info] Length after applying transformations is 32621
 [info] Lines trimmed.
-[info] Removed 10226 comments
-[info] The list was compressed from 22359 to 22359
+[info] Removed 10230 comments
+[info] The list was compressed from 22394 to 22394
 [info] Deduplication removed 0 rules
 [info] Final newline inserted
-[info] Final length of the list is 271
-[info] Writing output to /tmp/tmp.j6zMkHSfbE/BLOCK/uassets_filters_base
+[info] Final length of the list is 272
+[info] Writing output to /tmp/tmp.QXmR5WY2JV/BLOCK/uassets_filters_base
 [info] Finished compiling
 [info] Starting @adguard/hostlist-compiler v1.0.39
 [info] Starting the compiler
@@ -288,13 +288,13 @@
     ]
 }
 [info] Start compiling https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
-[info] Original length is 2747
-[info] Length after applying transformations is 2747
+[info] Original length is 2748
+[info] Length after applying transformations is 2748
 [info] Lines trimmed.
 [info] Removed 1059 comments
-[info] The list was compressed from 1691 to 1691
+[info] The list was compressed from 1692 to 1692
 [info] Deduplication removed 0 rules
 [info] Final newline inserted
 [info] Final length of the list is 91
-[info] Writing output to /tmp/tmp.j6zMkHSfbE/BLOCK/uassets_privacy
+[info] Writing output to /tmp/tmp.QXmR5WY2JV/BLOCK/uassets_privacy
 [info] Finished compiling
